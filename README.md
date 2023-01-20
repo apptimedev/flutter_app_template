@@ -1,11 +1,11 @@
 # Essential Flutter mobile example
-## foruscommunity/flutter_example
+## apptimedev/flutter_app_template
 
-[![Forus App](https://forus.app/icons/icon-128x128.png)](https://forus.app)
+[![Apptime](https://apptime.dev/icons/icon-128x128.png)](https://apptime.dev)
 
 ---
 
-Application `foruscommunity/flutter_example` helps you to create a mobile (Android/iOS) application project. Included l10n localization, state management, and a code architecture.
+Application `apptimedev/flutter_app_template` helps you to create a mobile (Android/iOS) application project. Included l10n localization, state management, and a code architecture.
 
 ---
 
@@ -20,8 +20,8 @@ Application `foruscommunity/flutter_example` helps you to create a mobile (Andro
 ## Clone the project
 
 ```sh
-$ git clone https://github.com/foruscommunity/flutter_example
-$ cd flutter_example
+$ git clone https://github.com/apptimedev/flutter_app_template
+$ cd flutter_app_template
 ```
 
 ---
